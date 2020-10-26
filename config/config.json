@@ -1,0 +1,4 @@
+{
+    "MongoDBConn": "mongodb://localhost:27017/testing",
+    "SecretKey": "Nagarjuna_Nagamothu"
+}
